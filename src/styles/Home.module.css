@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: row;
+}
+.left, .right {
+  width: 50%;
+  height: 100vh;
+}
+
+.right {
+  background-color: gray;
+}
