@@ -3,6 +3,7 @@
   flex-direction: row;
 }
 .left, .right {
+  margin: 1vw;
   width: 50%;
   height: 100vh;
 }
